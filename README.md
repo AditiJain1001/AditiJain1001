@@ -1,5 +1,6 @@
 ### Hi there 👋
-HELLLOOOO
+
+My name is Aditi and although I am just learning to code, I am excited to make lot's of new projects and meet lots of new people. Don't hesitate to reach out to me on LinkedIn and say hi at https://www.linkedin.com/in/aditi-jain10/ !
 
 <!--
 **AditiJain1001/AditiJain1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
