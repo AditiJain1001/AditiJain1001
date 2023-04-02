@@ -1,8 +1,9 @@
-![](https://raw.githubusercontent.com/AditiJain1001/AditiJain1001/df0fed98dce81e0fe719240404c9dbd59e63c31d/LinkedIn%20Banner-Aditi%20Tech!.png)
 
-## Intro
-### Hi there 👋
-My name is Aditi and I am software developver apprentice. Although I am just learning to code, I am excited to make lot's of new projects and meet of new people. Don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/aditi-jain10/) and say hi! And if you have any suggestions for new projects, I would love to hear them as well! 😄
+<img src="https://raw.githubusercontent.com/AditiJain1001/AditiJain1001/df0fed98dce81e0fe719240404c9dbd59e63c31d/LinkedIn%20Banner-Aditi%20Tech!.png" />
+
+
+## About Me 
+Hi 👋 there, my name is Aditi and I am software developver apprentice. Although I am just learning to code, I am excited to make lot's of new projects and meet of new people. Don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/aditi-jain10/) and say hi! And if you have any suggestions for new projects, I would love to hear them as well! 😄
 
 
 ## Tech Stack
@@ -11,6 +12,30 @@ My name is Aditi and I am software developver apprentice. Although I am just lea
 - Version Control: Git
 - Cloud: AWS
 - Other: Linux Foundations
+
+##
+
+<div align="center">
+  <br></br>
+  <a href="https://github.com/AditiJain1001">
+    <img src="https://github-readme-stats.vercel.app/api?username=AditiJain1001&theme=yeblu&show_icons=true" alt="GitHub Stats" />
+  <!--  add this code to the end to add grdient colours"&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10" 
+    This link also provides other cutomization options: https://github.com/anuraghazra/github-readme-stats -->
+  </a>
+  <br></br>
+  <a href="https://github.com/AditiJain1001">
+    <img />
+    <!-- ADD a repo card link and shift to top?-->
+  </a>
+  <br></br>
+  <a href="https://github.com/AditiJain1001">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS" />
+  </a>
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)  ADD THIS AFTER YOU HAVE SOME PROJECTS ADDED BECUASE IT SHOWS UP BLANK OTHERWISE-->
+  <!-- change "your-github-username" sometime in the future-->
+</div>
+
+
 
 <!--
 **AditiJain1001/AditiJain1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
