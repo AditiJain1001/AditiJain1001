@@ -5,6 +5,9 @@
 ## About Me 
 Hi 👋 there, my name is Aditi and I am software developver apprentice. Although I am just learning to code, I am excited to make lot's of new projects and meet of new people. Don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/aditi-jain10/) and say hi! And if you have any suggestions for new projects, I would love to hear them as well! 😄
 
+- 🌱 I’m currently learning **BOOTSTRAP, REACT, GCP, JAVA**
+- 📫 Send me an email **ADITI_JAIN@HCL.COM**
+
 
 ## Tech Stack
 - Languages: HTML, CSS, JS
@@ -34,6 +37,12 @@ Hi 👋 there, my name is Aditi and I am software developver apprentice. Althoug
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)  ADD THIS AFTER YOU HAVE SOME PROJECTS ADDED BECUASE IT SHOWS UP BLANK OTHERWISE-->
   <!-- change "your-github-username" sometime in the future-->
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aditi-jain10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aj.com" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aj.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aj.com" height="30" width="40" /></a>
+</p>
 
 
 
