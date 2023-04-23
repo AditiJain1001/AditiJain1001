@@ -35,8 +35,7 @@ Hi 👋 there, my name is Aditi and I am software developver apprentice. Althoug
   <a href="https://github.com/AditiJain1001">
     <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS" />
   </a>
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)  ADD THIS AFTER YOU HAVE SOME PROJECTS ADDED BECUASE IT SHOWS UP BLANK OTHERWISE-->
-  <!-- change "your-github-username" sometime in the future-->
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiJain1001&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)  ADD THIS AFTER YOU HAVE SOME PROJECTS ADDED BECUASE IT SHOWS UP BLANK OTHERWISE-->
 </div>
 
 <h3 align="left">Connect with me:</h3>
