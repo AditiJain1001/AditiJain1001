@@ -5,7 +5,7 @@
 ## About Me 
 Hi 👋 there, my name is Aditi and I am software developver apprentice. Although I am just learning to code, I am excited to make lot's of new projects and meet of new people. Don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/aditi-jain10/) and say hi! And if you have any suggestions for new projects, I would love to hear them as well! 😄
 
-- 🌱 I’m currently learning **NODE, REACT, JAVA**
+- 🌱 I’m currently learning **NODE, REACT, JAVA, JENKINS, NEXT.JS**
 - 📫 Send me an email **ADITI_JAIN@HCL.COM**
 
 
@@ -15,7 +15,7 @@ Hi 👋 there, my name is Aditi and I am software developver apprentice. Althoug
 - Methodologies: Waterfall, Agile, and Agile frameworks (ie, scrum, kanban, lean, etc)
 - Version Control: Git
 - Cloud: GCP, AWS
-- Other: Linux Foundations
+- Other: Linux Foundations, GraphQL
 
 ##
 
