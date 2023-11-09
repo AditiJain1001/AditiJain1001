@@ -10,11 +10,12 @@ Hi 👋 there, my name is Aditi and I am software developver apprentice. Althoug
 
 
 ## Tech Stack
-- Languages: HTML, CSS, JS
-- Libraries: Bootstrap
+- Languages: HTML, CSS, JS, 
+- Libraries: Bootstrap, React-Bootstrap, React-Switch, React.js
 - Methodologies: Waterfall, Agile, and Agile frameworks (ie, scrum, kanban, lean, etc)
 - Version Control: Git
-- Cloud: GCP, AWS
+- Tools: Jira, GitHub
+- Cloud: GCP - Associate Cloud Engineer, AWS
 - Other: Linux Foundations, GraphQL
 
 ##
