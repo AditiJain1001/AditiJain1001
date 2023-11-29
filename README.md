@@ -5,7 +5,7 @@
 ## About Me 
 Hi 👋 there, my name is Aditi and I am software developver apprentice. Although I am just learning to code, I am excited to make lot's of new projects and meet of new people. Don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/aditi-jain10/) and say hi! And if you have any suggestions for new projects, I would love to hear them as well! 😄
 
-- 🌱 I’m currently learning **Node.js, Redux, Redux Saga, Cassandra**
+- 🌱 I’m currently learning **Node.js, Redux, Redux Saga, Cassandra, Vim, Tailwind, Three.js**
 - 📫 Send me an email **ADITI_JAIN@HCL.COM**
 
 
@@ -18,6 +18,15 @@ Hi 👋 there, my name is Aditi and I am software developver apprentice. Althoug
 - Tools: Jira, GitHub
 - Cloud: GCP - Associate Cloud Engineer, AWS
 - Other: Linux Foundations, GraphQL
+
+
+<!-- Technologiy Images -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,scss,ts,nextjs,react,bootstrap,git,gcp,aws,graphql
+      svg,replit,redux,, powershell, postman, nodejs, ,jquery,cassandra, ,vscode, vite,wordpress,figma,vim&theme=" />
+  </a>
+</p>
 
 ##
 
