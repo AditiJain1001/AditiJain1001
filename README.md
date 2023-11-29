@@ -5,13 +5,14 @@
 ## About Me 
 Hi 👋 there, my name is Aditi and I am software developver apprentice. Although I am just learning to code, I am excited to make lot's of new projects and meet of new people. Don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/aditi-jain10/) and say hi! And if you have any suggestions for new projects, I would love to hear them as well! 😄
 
-- 🌱 I’m currently learning **NODE, REACT, JAVA, JENKINS, NEXT.JS**
+- 🌱 I’m currently learning **Node.js, Redux, Redux Saga, Cassandra**
 - 📫 Send me an email **ADITI_JAIN@HCL.COM**
 
 
 ## Tech Stack
-- Languages: HTML, CSS, JS, 
-- Libraries: Bootstrap, React-Bootstrap, React-Switch, React.js
+- Languages: HTML, CSS, JS, SCSS, TypeScript
+- Frameworks: Next.js
+- Libraries: React.js, Bootstrap, React-Bootstrap, React-Switch
 - Methodologies: Waterfall, Agile, and Agile frameworks (ie, scrum, kanban, lean, etc)
 - Version Control: Git
 - Tools: Jira, GitHub
