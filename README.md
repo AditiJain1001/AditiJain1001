@@ -7,24 +7,33 @@ Hi 👋 there, my name is Aditi and I am software developver apprentice. Althoug
 
 - 🌱 I’m currently learning **Node.js, Redux, Redux Saga, Cassandra, Vim, Tailwind, Three.js**
 - 📫 Send me an email **ADITI_JAIN@HCL.COM**
+<br></br>
+<!-- Technologiy Images -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,redux,cassandra,vim,tailwind,threejs&theme=dark" />
+  </a>
+</p>
+
 
 
 ## Tech Stack
 - Languages: HTML, CSS, JS, SCSS, TypeScript
 - Frameworks: Next.js
-- Libraries: React.js, Bootstrap, React-Bootstrap, React-Switch
+- Libraries: React.js, Bootstrap, React-Bootstrap, React-Switch, jQuery
 - Methodologies: Waterfall, Agile, and Agile frameworks (ie, scrum, kanban, lean, etc)
 - Version Control: Git
-- Tools: Jira, GitHub
+- Design: Figma, 
+- Tools: Jira, GitHub, PowerShell, Postman, Code Sandbox, Replit, VS Code, Vite
 - Cloud: GCP - Associate Cloud Engineer, AWS
-- Other: Linux Foundations, GraphQL
+- CMS: WordPress
+- Other: Linux Foundations, svg, GraphQL
 
 
 <!-- Technologiy Images -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,scss,ts,nextjs,react,bootstrap,git,gcp,aws,graphql
-      svg,replit,redux,, powershell, postman, nodejs, ,jquery,cassandra, ,vscode, vite,wordpress,figma,vim&theme=" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,scss,ts,nextjs,react,bootstrap,jquery,git,figma,github,powershell,postman,replit,vscode,vite,gcp,aws,wordpress,svg,graphql&theme=&perline=23" />
   </a>
 </p>
 
